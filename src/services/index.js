@@ -1,0 +1,1 @@
+export { callServiceMedidor } from './medidor'
